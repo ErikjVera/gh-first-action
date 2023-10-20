@@ -1,7 +1,7 @@
 name: windows action
 on: workflow_dispatch
 jobs:
-  first_job:
+  windows-job:
     runs-on: windows-latest
     steps:
       - name: Print Hello
