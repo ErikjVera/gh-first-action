@@ -1,5 +1,5 @@
 macos-latest
-name: Mac
+name: mac
 on: workflow_dispatch
 jobs:
   macos-job:
