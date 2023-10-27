@@ -1,7 +1,7 @@
 name: mac
 on: workflow_dispatch
 jobs:
-  windows-job:
+  mac-job:
     runs-on: macos-latest
     steps:
       - name: Print Hello
